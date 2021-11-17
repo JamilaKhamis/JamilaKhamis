@@ -1,5 +1,5 @@
 import java.util.Scanner;
-  class Q14{
+  class names{
       public static void main (String []args){
           Scanner scanner = new Scanner (System.in);
           
